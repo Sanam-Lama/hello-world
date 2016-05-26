@@ -1,2 +1,7 @@
 # hello-world
-First Git hub I am trying !! 
+
+hello all!!
+this is something new that I am trying today. 
+hope I like it and I continue!!
+
+
